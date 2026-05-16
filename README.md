@@ -90,6 +90,17 @@ Ethereum-based decentralized lottery application built with Solidity smart contr
 **Tech Stack:** Solidity, React 18, Ethereum (Ganache)
 </br>
 
+### IOT Security Auth & IDS (ASP.NET Core API)
+
+Backend API service built with .NET 8 for authentication and IoT communication. The system manages user registration, login, and OTP generation, sending validation messages to an ESP32 device via MQTT.
+
+Focus on secure API design and lightweight IoT messaging architecture.
+
+**Tech Stack:** .NET 8, C#, MQTT, ESP32
+
+🔗 View project: [CookJoy](https://github.com/mariapia-formichella/IOT-Security-Auth-IDS-API-Service/blob/main/README.md)
+
+</br>
 🔗 View project:[ Decentralized Lottery](https://github.com/mariapia-formichella/SDD---LOTTERY-DAPP/blob/main/README.md)
 
 </br>
