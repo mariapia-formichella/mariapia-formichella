@@ -63,43 +63,39 @@ Software engineer with experience in frontend and full-stack development, focuse
 
 </details>
 
+
+
 </br>
 </br>
 
+## University Projects
 
-## Featured Projects
+### CookJoy (BD2 - Database II Project)
 
-### Project Name
+Web application for recipe sharing and discovery built as part of the Database II exam. The system is designed with a client-server architecture, featuring a React frontend, a Spring Boot backend, and a data layer based on MongoDB with Redis caching for performance optimization.
 
-Short description of the project and its purpose.
+Key focus on data modeling, API design, and improving read performance through caching strategies.
 
-#### Tech Stack
-React, TypeScript, Node.js, MongoDB
+**Tech Stack:** React 18, Spring Boot, MongoDB, Redis
+</br>
 
-#### Features
-- Authentication flow
-- REST API integration
-- State management with Zustand
-- Responsive UI
-- Modular architecture
+🔗 View project: [CookJoy](https://github.com/mariapia-formichella/BD2---COOKJOY/blob/main/README.md)
 
+</br>
 
-### Project Name
+### SDD - Decentralized Lottery (Blockchain DApp)
 
-Short description of the project and its purpose.
+Ethereum-based decentralized lottery application built with Solidity smart contracts and React. The system manages lottery lifecycle, ticket purchases, and reward distribution on-chain, ensuring transparency and deterministic execution through blockchain logic.
 
-#### Tech Stack
-.NET, SQL Server, React
+**Tech Stack:** Solidity, React 18, Ethereum (Ganache)
+</br>
 
-#### Features
-- CRUD operations
-- API integration
-- Form validation
-- Responsive interface
-- Clean component structure
+🔗 View project:[ Decentralized Lottery](https://github.com/mariapia-formichella/SDD---LOTTERY-DAPP/blob/main/README.md)
 
+</br>
+</br>
 
-### Currently Exploring
+## Currently Exploring
 
 - Software Architecture
 - System Design
