@@ -99,7 +99,7 @@ Focus on secure API design and lightweight IoT messaging architecture.
 **Tech Stack:** .NET 8, C#, MQTT, ESP32
 </br>
  
-🔗 View project: [IOT Security Auth & ID](https://github.com/mariapia-formichella/IOT-Security-Auth-IDS-API-Service/blob/main/README.md)
+🔗 View project: [IOT Security Auth & ID](https://github.com/mariapia-formichella/IOT--Security-Auth-IDS-API/blob/main/README.md)
 
 </br>
 </br>
